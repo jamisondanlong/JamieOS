@@ -1,0 +1,1 @@
+cd /tmp/JamieOS-data-5392 && /usr/bin/genisoimage -o /tmp/JamieOS-x86_64.iso -v -J -R -D -A JamieOS -V JamieOS -no-emul-boot -boot-info-table -boot-load-size 4 -b JamieOS/boot/isolinux.bin -c JamieOS/boot/isolinux.boot .
