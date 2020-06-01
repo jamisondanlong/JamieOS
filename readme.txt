@@ -1,5 +1,6 @@
 JamieOS is a debian distro with the budgie desktop it has many pre installed programs such as mate and gnome applacations.
 It was made using linux live kit and sorry but it has that ugly bootsplash you can always change it. 
+to make it an iso run gen_JamieOS_iso.sh (sudo bash gen_JamieOS_iso.sh) you can also run the zip script to make it a zip. 
 
 Thank you for using JamieOS!
 If you are reading this from a CD, it is already bootable.
