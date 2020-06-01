@@ -1,3 +1,6 @@
+JamieOS is a debian distro with the budgie desktop it has many pre installed programs such as mate and gnome applacations.
+It was made using linux live kit and sorry but it has that ugly bootsplash you can always change it. 
+
 Thank you for using JamieOS!
 If you are reading this from a CD, it is already bootable.
 Steps to make it bootable from your USB device are following:
